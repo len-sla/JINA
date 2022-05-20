@@ -2,7 +2,7 @@
 
 ## 1.  [Getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/cornelsen-jina.ipynb)
 ---
-There are multiple ready to use sets of data available though to personalise a bit for  the presentation purpose I decided to scrap quickly( tgetting pictures from internet with the help of bing engine)
+There are multiple ready to use sets of data available though to personalise a bit for  the presentation purpose I decided to scrap quickly( getting search results  for the word Cornelsen with bing help)
 
 it is enough to install  library
 
