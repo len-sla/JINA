@@ -31,7 +31,7 @@ Embedings are calculated and Streamlit front end used to give search text or pic
 
 
 
-![Cornelsen](cornelsen.gif)
+![Cornelsen]([cornelsen.gif](cornelsen-crossmodal.gif))
 
 Of course if there would be some extra metadata to those pictures  finetunig could be done and level of confidence will be much higher. <b>
     
