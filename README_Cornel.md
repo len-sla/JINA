@@ -35,7 +35,7 @@ Embedings are calculated and Streamlit front end used to give search text or pic
 
 Of course if there would be some extra metadata to those pictures  finetunig could be done and level of confidence will be much higher. <b>
     
-Direction  taken by Han Xiao in my opinion has bright future.Especially coupled with microservices Streamlite, Weaviate and other Python based frontends 
+Direction  taken by Han Xiao in my opinion has future. Especially coupled with microservices Streamlite, Weaviate and other Python based frontends 
 
 ---
 
