@@ -40,7 +40,7 @@ Direction  taken by Han Xiao in my opinion has bright future.Especially coupled 
 ---
 
 
-_readme and notebook were prepared in dockerised JupyterLab_ <b>
+_readme and notebook were prepared in dockerised JupyterLab_  to prepare gif ffmpeg was used <b>
 
 ```
     docker run --name jupyter_lab  --rm -v $(pwd):/home/jovyan/work  --user "$(id -u):$(id -g)" -p 8888:8888 jupyter/scipy-notebook
