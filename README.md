@@ -27,7 +27,7 @@ Ready to use [jupyter notebook](https://colab.research.google.com/github/jina-ai
 ```
 
 ```
-## 2.  [Getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/tts-input_txt_file.ipynb)
+## 2.  [Getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/README_Cornel.md)
 ---
 There are multiple ready to use sets of data vaailable though to personalise a bit the presentation I decided to scrap quickly( getting  pictures from internet with the help of bing engine)
 
