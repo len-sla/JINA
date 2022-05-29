@@ -3,7 +3,7 @@
 Approch which was taken by team which is developing JINA certainly has 
 a future as it collects best from various fields to conquer ML and NLP field and especially neuronal based search solutions.
  After experiences in Zalando, Tencent own framwork appeared.
-Supported by  by docker or kubernetes and recetly by JINAhub which like docker hub make good impresion . <br>
+Supported by  by docker or/and kubernetes and recetly by JINAhub which like docker hub make good impresion . <br>
 I try to check how modular easy and useful for me is this package
 https://github.com/jina-ai/examples
 
