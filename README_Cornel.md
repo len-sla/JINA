@@ -2,7 +2,7 @@
 
 ## 1.  [Getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/cornelsen-jina.ipynb)
 ---
-There are multiple ready to use sets of data available though to personalise a bit for  the presentation purpose I decided to scrap quickly( getting search results  for the word "Cornelsen" with bing help)
+There are multiple ready to use sets of data available though to personalise a bit for  the presentation purpose I decided to scrap quickly webpages( getting search results  for the word "Cornelsen" with bing help)
 
 it is enough to install  library
 
@@ -33,7 +33,7 @@ Embedings are calculated and Streamlit front end used to give search text or pic
 
 ![Cornelsen](cornelsen-crossmodal.gif)
 
-Of course if there would be some extra metadata to those pictures  finetunig could be done and level of confidence will be much higher. <b>
+Of course if there would be some extra metadata avilable for  those pictures  finetunig could be done and level of confidence will be much higher. <b>
     
 Direction  taken by Han Xiao in my opinion has future. Especially coupled with microservices Streamlite, Weaviate and other Python based frontends 
 
