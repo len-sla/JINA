@@ -46,7 +46,7 @@ _readme and notebook were prepared in dockerised JupyterLab,  to prepare gif ffm
     docker run --name jupyter_lab  --rm -v $(pwd):/home/jovyan/work  --user "$(id -u):$(id -g)" -p 8888:8888 jupyter/scipy-notebook
 ```
 ---
-## 3.  [Using TTS to generate voice comments as a wave/mp3 file where is input text file](https://github.com/len-sla/JINA/blob/main/tts-input_txt_file.ipynb).
+## 3.  [Using TTS to generate voice comments as a wave/mp3 file where  input  is text file](https://github.com/len-sla/JINA/blob/main/tts-input_txt_file.ipynb).
     
     
 _Created by:_ [lencz.sla@gmail.com]
