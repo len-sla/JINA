@@ -33,6 +33,11 @@ Ready to use [jupyter notebook](https://colab.research.google.com/github/jina-ai
 There are multiple ready to use sets of data vaailable though to personalise a bit the presentation I decided to scrap quickly( getting  pictures from internet with the help of bing engine)
 
 it is enough to install download library
+
+ 
+## 3.  [another example, getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/README_ntt.md)
+---
+
  
 ### Status
 Project is: _in progress_ 
