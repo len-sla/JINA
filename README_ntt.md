@@ -1,6 +1,7 @@
 
 
-## 1.  [Getting data set for presentation of multimodal capability](Keras-neural-net-for-champs.ipynb)
+## 1.  [Getting data set for presentation of multimodal capability](https://github.com/len-sla/JINA/blob/main/ntt-data-jina.ipynb)
+
 ---
 There are multiple ready to use sets of data vaailable though to personalise a bit the presentation I decided to scrap quickly( to get pictures internet with the help of bing engine
 
