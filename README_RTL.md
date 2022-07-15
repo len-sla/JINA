@@ -15,7 +15,7 @@ simple funcion
 
 ```
 query_string='RTL, jobs'
-downloader.download(query_string, limit=350, output_dir='cornelsen', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download(query_string, limit=350, output_dir='rtl', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
 ```
 was also placed in Colab form to be more universal
 
