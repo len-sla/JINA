@@ -1,6 +1,6 @@
 
 
-## 1.  [Getting data set for presentation of multimodal capability](Keras-neural-net-for-champs.ipynb)
+## 1.  Getting data set for presentation of multimodal capability
 ---
 There are multiple ready to use sets of data vaailable though to personalise a bit the presentation I decided to scrap quickly( to get pictures internet with the help of bing engine
 
@@ -31,7 +31,7 @@ Embedings are calculated and Streamlit front end used to give search text or pic
 
 
 
-![NTT](RTL.gif)
+![RTL](RTL.gif)
 
 Of course if there would be some extra metadata to those pictures  finetunig could be done and level of confidence will be much higher. <b>
     
