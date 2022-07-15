@@ -26,7 +26,7 @@ was also placed in Colab form to be more universal
 ---
 ## 2.  Crossmodal JINA framework in action.
 
-Embedings are calculated and Streamlit front end used to give search text or picture and present result sall this with the help of k8s in docker
+Embedings are calculated and Streamlit front end used to give search text or picture and present result sall this with the help of k8s in docker KIND
 
 
 
