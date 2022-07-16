@@ -35,7 +35,7 @@ Embedings are calculated and Streamlit front end used to give search text or pic
 
 Of course if there would be some extra metadata to those pictures  finetunig could be done and level of confidence will be much higher. <b>
     
-Direction  taken by Han Xiao in my opinion has bright future.Especially coupled with microservices Strealite, Weaviate
+Direction  taken by Han Xiao in my opinion is very promisinge.Especially coupled with microservices Strealite, Weaviate and k8s
 
  ---
 ## 3.  [Using TTS to generate voice comments as a wave/mp3 file where  input  is text file](https://github.com/len-sla/JINA/blob/main/tts-input_txt_file.ipynb).
